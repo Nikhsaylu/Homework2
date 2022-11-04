@@ -97,7 +97,7 @@ public class Main {
         var plusWorkers = 94;
         var plusTotalWorkers = totalWorker + plusWorkers;
         var hoursForPlus = totalHours / plusTotalWorkers;
-        System.out.println("Если в компании работает " + plusTotalWorkers + " человек," + "То всего "+hoursForPlus + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + plusTotalWorkers + " человек," + "То всего "+hoursForPlus + " часов работы может быть поделено между сотрудниками.");
 
     }
 
